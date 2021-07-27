@@ -1,0 +1,17 @@
+
+body {
+  background-color: #92702F;
+}
+ul {
+  background-color: #FFB800;
+}
+
+li {
+  text-transform: uppercase;
+  list-style-type: none;
+  font-weight: normal;
+}
+
+list-item {
+  display: inline-block;
+}

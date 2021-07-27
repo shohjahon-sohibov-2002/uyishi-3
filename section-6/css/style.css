@@ -1,0 +1,26 @@
+body {
+  background-color: #34333F;
+}
+
+li {
+  list-style-type: none;
+}
+
+.navbar {
+  background-color: #CD9B3A;
+}
+
+.navbar li {
+  text-transform: uppercase;
+}
+
+.contents {
+  text-align: center;
+  background-color: #CD9B3A;
+  border-radius: 10px;
+  width: 500px;
+}
+
+.content-1 {
+  border-bottom: 1px solid white;
+}

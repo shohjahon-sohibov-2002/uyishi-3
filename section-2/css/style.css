@@ -1,0 +1,27 @@
+body {
+  background-color: #252525;
+}
+
+h2 {
+  text-align: center;
+  font-size: 36px;
+  font-weight: normal;
+  color: #FFFFFF;
+}
+
+.header-1 {
+  border: 1px solid #54CF35;
+  border-radius: 10px;
+  background-color: #54CF35;
+  width: 308px;
+  height: 67px;
+}
+
+.header-2 {
+  border: 1px solid #D62C2C;
+  border-radius: 10px;
+
+  background-color: #D62C2C;
+  width: 308px;
+  height: 67px;
+}

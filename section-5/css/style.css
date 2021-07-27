@@ -1,0 +1,33 @@
+body {
+  background-color: #4B9DCB;
+}
+
+.list-wrapper {
+  background-color: white;
+  width: 703px;
+  border-radius: 25px;
+}
+
+.list-wrapper li {
+  list-style-type: none;
+}
+
+h1 {
+  color: #4B9DCB;
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 15px;
+  text-align: center;
+  width: 258px;
+  height: 42px;
+}
+
+h2 {
+  color: #4B9DCB;
+}
+
+p {
+  color: #4B9DCB;
+  font-size: 18px;
+  font-weight: normal;
+}
